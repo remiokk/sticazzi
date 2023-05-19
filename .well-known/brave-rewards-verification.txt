@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sticazzi.xyz
+Token: 7b886c20078723ea00a692e1f56e9b25a290fcc2e31fd5f5f2dfd6e44b1dcd03
